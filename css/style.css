@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Rubik', sans-serif;
+    width: 100%;
+    background-color: #f3cc41;
+}
+
+.navbar-custom {
+    background-color: #e7eaf6;
+  }
+
+.ml-3 {
+    color: #f81621;
+    margin: 1rem;
+}
+
+.number {
+    color: #94050c;
+}
+
+nav {
+    background-color: #f81621;
+    width: 100%;
+}
+
+nav ul {
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    flex: 1;  
+}
+
+nav ul li a {
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    padding: 5px;
+    color: #f8f8f2;
+    border: 1px solid  #94050c;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+nav ul li a:hover {
+    background-color: #94050c;
+    color: #f8f8f2;
+}
+
+.container {
+    position: relative;
+  }
+  
+
+.container h1, h2 {
+    font-weight: bold;
+}
+
+  
+.another-logo {
+    padding: 3rem;
+    width: 350px;
+  }
+
+.img-container img {
+    width: 150px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.tv {
+    margin-left: 3rem;
+}
+
+.video {
+    width: 700px;
+    height: 700px;
+    float: right;
+    margin-top: 5rem;
+  }
+
+.certifitext {
+    display: inline-block;
+    margin: 1rem;
+}
+
+.post2 {
+    background-color: #fff;
+}
+
+.container2 {
+    width: 100%;
+    max-width: 1000px;
+    margin: 2rem auto;
+    padding: 4rem 15px;
+    box-sizing: border-box;
+}
+
+.container2 h1 {
+    text-align: center;
+    margin: 2rem;
+    color: #179c42;
+    font-size: 60px;
+}
+
+.container2 p {
+    text-align: justify;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.container2 img {
+    display: block;
+    width: 400px;
+    margin: 2rem auto;
+}
+
+.container2 img:hover {
+    cursor: pointer;
+    opacity: 0.7;
+    transform: scale(1.1);
+}
+
+.post3 h1 {
+    text-align: center;
+    margin: 2rem;
+    color: #179c42;
+    font-size: 60px;
+}
+
+.carousel {
+    max-width: 1080px;
+    margin: 3rem auto;
+}
+
+.card {
+    padding: 2rem;
+    height: 300px;
+}

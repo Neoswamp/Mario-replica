@@ -1,0 +1,1 @@
+Se añadieron 3 secciones Beltro, añada las que faltas y corrija errores, cambie el código resto, trate de mantener la estructura de la página reusando el código del CSS para alinear cosas.
